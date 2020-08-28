@@ -1,0 +1,36 @@
+.purple-bg {
+    background-color: #292244;
+}
+
+.blue-bg {
+    background-color: #7D8CA3;
+}
+
+.color-white {
+    color: #FBF7F4;
+}
+
+.color-main {
+    color: #292244;
+}
+
+.nav-link {
+    margin-left:5px;
+    margin-right:5px;
+}
+
+.interests {
+    position: relative;
+    display:inline-block;
+}
+
+.interests .list {
+    position: absolute;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 10%;
+    text-align: center;
+    width:50%;
+    background-color: #FBF7F4;
+}
